@@ -15,7 +15,7 @@
     </div>
   </div>
 </template>
-<script src="https://cdn.bootcss.com/mui/3.7.1/js/mui.min.js"></script>
+
 <script>
 
 export default {
